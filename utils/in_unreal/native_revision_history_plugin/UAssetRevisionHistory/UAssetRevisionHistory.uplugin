@@ -1,0 +1,19 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0",
+  "FriendlyName": "UAsset Revision History",
+  "Description": "Adds a Content Browser context menu action to open native Source Control revision history for selected assets.",
+  "Category": "Source Control",
+  "CanContainContent": false,
+  "IsBetaVersion": false,
+  "IsExperimentalVersion": false,
+  "Installed": false,
+  "Modules": [
+    {
+      "Name": "UAssetRevisionHistory",
+      "Type": "Editor",
+      "LoadingPhase": "Default"
+    }
+  ]
+}
